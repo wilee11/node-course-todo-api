@@ -2,8 +2,8 @@
 
 const {MongoClient, ObjectID} = require ('mongodb');
 
-var obj = new ObjectID ();
-console.log (obj);
+// var obj = new ObjectID ();
+// console.log (obj);
 
 
 // var user = { name: 'Dave', age:25};
